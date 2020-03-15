@@ -29,6 +29,6 @@ def adding
                   "oil paintings" => 3
                  }
 shipping_manifest["pearl necklace"] = 1
-  shipping_manifest
+shipping_manifest
 
 end
